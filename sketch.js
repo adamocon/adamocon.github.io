@@ -18,7 +18,7 @@ var seed_height = 0;
 
 // Timestep and number of timesteps to take before drawing
 var timestep = 1;
-var n_draw = 10;
+var n_draw = 2;
 
 // Amount B concentration is increased by paintbrush
 var add_amount = 0.8;
