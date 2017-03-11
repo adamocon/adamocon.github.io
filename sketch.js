@@ -11,8 +11,8 @@ var start_a = 1;
 var start_b = 0;
 
 // Grid size and seed size (area seeded with b, replaced by drawing now)
-var LX = 220;
-var LY = 220;
+var LX = 150;
+var LY = 150;
 var seed_width = 0;
 var seed_height = 0;
 
